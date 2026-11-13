@@ -8,3 +8,5 @@ print("\n--- Student Details ---")
 print("Name:", name)
 print("Course:", course)
 print("Level:", level)
+
+print("completed successfully")
