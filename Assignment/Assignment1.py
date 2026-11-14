@@ -10,3 +10,6 @@ print("Course:", course)
 print("Level:", level)
 
 print("completed successfully")
+
+print("saalim koiranga")
+print("November 2006")
